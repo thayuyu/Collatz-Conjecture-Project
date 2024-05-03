@@ -1,0 +1,17 @@
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.exe
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.deps.json
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.runtimeconfig.json
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.dll
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.pdb
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.csproj.AssemblyReference.cache
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz_Conjecture.Form1.resources
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.csproj.GenerateResource.cache
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.AssemblyInfoInputs.cache
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.AssemblyInfo.cs
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.csproj.CoreCompileInputs.cache
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.dll
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\refint\Collatz Conjecture.dll
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.pdb
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.genruntimeconfig.cache
+C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\ref\Collatz Conjecture.dll
