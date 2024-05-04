@@ -15,3 +15,20 @@ C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Co
 C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.pdb
 C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.genruntimeconfig.cache
 C:\Users\yunes\OneDrive - sluz\Dokumente\IMS Jahr 1\Informatik\Rando Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\ref\Collatz Conjecture.dll
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.exe
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.deps.json
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.runtimeconfig.json
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.dll
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\bin\Debug\net6.0-windows\Collatz Conjecture.pdb
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz_Conjecture.Form1.resources
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.csproj.GenerateResource.cache
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.AssemblyInfoInputs.cache
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.AssemblyInfo.cs
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.csproj.CoreCompileInputs.cache
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.sourcelink.json
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.dll
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\refint\Collatz Conjecture.dll
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.pdb
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\Collatz Conjecture.genruntimeconfig.cache
+C:\Git stuff\Collatz-Conjecture-Project\Collatz Conjecture\Collatz Conjecture\obj\Debug\net6.0-windows\ref\Collatz Conjecture.dll

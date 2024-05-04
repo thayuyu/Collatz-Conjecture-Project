@@ -16,7 +16,7 @@ namespace Collatz_Conjecture
 
     private void button1_Click(object sender, EventArgs e)
     {
-      int val = Convert.ToInt16(textBox1.Text);
+     ulong val = Convert.ToUInt64(textBox1.Text);
       int count = 1;
       while (val != 1)
       {

@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yunes\\.nuget\\packages\\": {}
+    "C:\\Users\\yunes\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yunes\\OneDrive - sluz\\Dokumente\\IMS Jahr 1\\Informatik\\Rando Projects\\Collatz Conjecture\\Collatz Conjecture\\Collatz Conjecture.csproj",
+      "projectUniqueName": "C:\\Git stuff\\Collatz-Conjecture-Project\\Collatz Conjecture\\Collatz Conjecture\\Collatz Conjecture.csproj",
       "projectName": "Collatz Conjecture",
-      "projectPath": "C:\\Users\\yunes\\OneDrive - sluz\\Dokumente\\IMS Jahr 1\\Informatik\\Rando Projects\\Collatz Conjecture\\Collatz Conjecture\\Collatz Conjecture.csproj",
+      "projectPath": "C:\\Git stuff\\Collatz-Conjecture-Project\\Collatz Conjecture\\Collatz Conjecture\\Collatz Conjecture.csproj",
       "packagesPath": "C:\\Users\\yunes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yunes\\OneDrive - sluz\\Dokumente\\IMS Jahr 1\\Informatik\\Rando Projects\\Collatz Conjecture\\Collatz Conjecture\\obj\\",
+      "outputPath": "C:\\Git stuff\\Collatz-Conjecture-Project\\Collatz Conjecture\\Collatz Conjecture\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\yunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
